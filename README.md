@@ -1,4 +1,4 @@
-# Portugal Hackathon 2023
+# KDB+ Hackathon Lisboa 22nd July 2023
 
 Resources needed for the two Challenges.
 
@@ -13,4 +13,3 @@ File housing some stock reference data. Used in Challenge A: Trade Report.
 
 ## t1.csv and t2.csv
 Sample tables for Challenge B: A Table Comparison Tool
-
